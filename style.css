@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background: #353535;
+}
+
+h1 {
+	font-family: Tahoma, Geneva, sans-serif;
+	background-color: #4d4d4d;
+	width: 600px;
+	color: #FFF;
+	font-size: 20px;
+	border-bottom: #000 1px solid;
+	text-shadow: #000 0px 2px 2px;
+	text-transform: uppercase;
+}
+
+
+table {
+	background-color: #3d3d3d;
+}
+
+.text_form {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	color: white;
+}
+
+.box {
+	border: 1px #000 solid;
+	border-bottom: #fff 1px outset;
+	border-right: #fff 1px outset;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	background-color: #353535;
+	color: white;
+}
+
+.botao {
+	font-family: Tahoma, Geneva, sans-serif;
+	background-color: #585858;
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+	border: 1px solid;
+	border-bottom: #000 1px solid;
+	border-left: #000 1px solid;
+	border-right: #000 1px solid;
+	border-top: #000 1px solid;
+}
+
+.alert {
+	font-family: Tahoma, Geneva, sans-serif;
+	width: 600px;
+	background-color: #505f18;
+	color: #FFF;
+	text-shadow: #000 0px 2px 2px;
+	text-transform: uppercase;
+	font-weight: bold;
+}

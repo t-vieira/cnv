@@ -1,0 +1,1 @@
+Sistema completo para controle de CNV (Carteira Nacional de Vigilante) para uso em filial de uma empresa de terceirização de serviços. Esse sistema acabou ficando obsoleto devido as novas necessidades da empresa, e não esta mais em uso atualmente.
